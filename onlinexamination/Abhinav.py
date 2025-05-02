@@ -1,0 +1,1 @@
+print("This is a sample mesage regarding pushing a code to github")
